@@ -37,6 +37,10 @@ body{
 .html{
     font-size: 1.3rem;
 }
+.html:hover{
+    color: hsl(47, 88%, 63%);
+    transition: all .2s ease-in-out;
+}
 .description{
     opacity: 0.5;
     font-size: 0.9rem;
